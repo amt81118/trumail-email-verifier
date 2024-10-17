@@ -1,3 +1,7 @@
+github.com/AfterShip/email-verifier v1.4.1 h1:vDmnqq680siSLw8rtiAYaqgmqYeW+AUoMfEY1RjWK8k=
+github.com/AfterShip/email-verifier v1.4.1/go.mod h1:AcFyA5b7X6L4l5dBuemWBSh8mq74nxkBTtoWgLOFrbw=
+github.com/hbollon/go-edlib v1.6.0 h1:ga7AwwVIvP8mHm9GsPueC0d71cfRU/52hmPJ7Tprv4E=
+github.com/hbollon/go-edlib v1.6.0/go.mod h1:wnt6o6EIVEzUfgbUZY7BerzQ2uvzp354qmS2xaLkrhM=
 github.com/sdwolfe32/trumail v0.0.0-20180615002037-5bf27f7ac60a h1:u8kRHytcyalpTxgAHgLmZW9HZA81nW9yrZM0Ns8hnUI=
 github.com/sdwolfe32/trumail v0.0.0-20180615002037-5bf27f7ac60a/go.mod h1:9ZFAJWPjjbdvIr/6xe85BBcWs98joR4GTnoDQSbFhfU=
 golang.org/x/net v0.30.0 h1:AcW1SDZMkb8IpzCdQUaIq2sP4sZ4zw+55h6ynffypl4=
