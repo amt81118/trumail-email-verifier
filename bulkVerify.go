@@ -12,7 +12,7 @@ import (
 )
 
 func main() {
-	//? Seed the random number generator
+	//? Seed the random number generator ->
 	rand.Seed(time.Now().UnixNano())
 
 	//? Open the CSV file for reading
