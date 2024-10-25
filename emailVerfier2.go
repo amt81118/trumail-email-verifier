@@ -11,7 +11,7 @@ var (
 )
 
 func main() {
-	email := "amityadav81118@gmail.com"
+	email := "aastha.sood@jupiter.money"
 
 	ret, err := verifier.Verify(email)
 	if err != nil {
@@ -24,7 +24,6 @@ func main() {
 		return
 	}
 
-	// Print formatted output
 	fmt.Println("Email Validation Result:",ret)
 	fmt.Printf("  Email: %s\n", ret.Email)
 	fmt.Printf("  Disposable: %t\n", ret.Disposable)

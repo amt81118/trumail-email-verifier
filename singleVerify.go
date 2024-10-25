@@ -11,7 +11,7 @@ func main() {
 	v := trumail.NewVerifier("localhost", "amit.yadav@code-b.dev")
 
 	// Validate a single email address
-	result, err := v.Verify("vinita@paisabazaar.com")
+	result, err := v.Verify("aastha.sood@jupiter.money")
 	if err != nil {
 		log.Fatalf("Error verifying email: %v", err)
 	}
